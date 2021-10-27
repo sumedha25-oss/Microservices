@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  application:
+         name: DEPARTMENT-SERVICE
+    
+  cloud:
+       config:
+              enabled: false
+ 
